@@ -28,4 +28,4 @@ In connection to the details mentioned above, the key metrics measured are perta
 
 ## Dashboard
 This interactive dashboard is on [Tableau Public](https://public.tableau.com/app/profile/charlm.escalera/viz/EmergencyRoomMetricsDashboard/EmergencyRoomDashboard).
-<img width="1360" alt="Screenshot 2024-07-30 at 1 12 08 PM" src="https://github.com/user-attachments/assets/00804802-a539-485f-a9f7-9e6bccfa4a20">
+<img width="988" alt="Screenshot 2024-08-03 at 6 11 29 PM" src="https://github.com/user-attachments/assets/104b2be5-c36c-4187-8952-39b0c741dd12">
